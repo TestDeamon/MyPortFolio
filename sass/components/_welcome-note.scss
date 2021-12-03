@@ -1,0 +1,8 @@
+.welcome{
+    &__text{
+        font-size: 3rem;
+        font-style: italic;
+        text-shadow: 0 2rem 4rem rgba($color-white-l, .8);
+        color: $color-white;
+    }
+}
